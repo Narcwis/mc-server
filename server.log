@@ -1,0 +1,47 @@
+2020-04-25 00:25:20 [INFO] Starting minecraft server version 1.6.4
+2020-04-25 00:25:40 [INFO] Loading properties
+2020-04-25 00:25:40 [INFO] Default game type: SURVIVAL
+2020-04-25 00:25:40 [INFO] Generating keypair
+2020-04-25 00:25:40 [INFO] Starting Minecraft server on 192.168.1.69:25565
+2020-04-25 00:25:40 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2020-04-25 00:25:40 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2020-04-25 00:25:40 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2020-04-25 00:25:40 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2020-04-25 00:25:44 [INFO] [qCraft] Loading qCraft v1.1 (rev 253)
+2020-04-25 00:25:47 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Impossibile trovare il file specificato)
+2020-04-25 00:25:47 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Impossibile trovare il file specificato)
+2020-04-25 00:25:47 [INFO] Preparing level "world"
+2020-04-25 00:25:48 [INFO] Preparing start region for level 0
+2020-04-25 00:25:49 [INFO] Preparing spawn area: 12%
+2020-04-25 00:25:50 [INFO] Preparing spawn area: 23%
+2020-04-25 00:25:51 [INFO] Preparing spawn area: 37%
+2020-04-25 00:25:53 [INFO] Preparing spawn area: 47%
+2020-04-25 00:25:54 [INFO] Preparing spawn area: 54%
+2020-04-25 00:25:55 [INFO] Preparing spawn area: 68%
+2020-04-25 00:25:56 [INFO] Preparing spawn area: 76%
+2020-04-25 00:25:57 [INFO] Preparing spawn area: 85%
+2020-04-25 00:25:59 [INFO] Preparing spawn area: 91%
+2020-04-25 00:25:59 [INFO] Done (12,323s)! For help, type "help" or "?"
+2020-04-25 00:27:18 [SEVERE] Reached end of stream for /192.168.1.69
+2020-04-25 00:28:11 [INFO] doof0918[/192.168.1.69:62039] logged in with entity id 5723 at (215.5, 66.0, 206.5)
+2020-04-25 00:28:11 [INFO] doof0918 joined the game
+2020-04-25 00:32:54 [INFO] doof0918 lost connection: disconnect.quitting
+2020-04-25 00:32:54 [INFO] doof0918 left the game
+2020-04-25 00:33:22 [INFO] --- Showing help page 1 of 12 (/help <page>) ---
+2020-04-25 00:33:22 [INFO] /ban <name> [reason ...]
+2020-04-25 00:33:22 [INFO] /ban-ip <address|name> [reason ...]
+2020-04-25 00:33:22 [INFO] /banlist [ips|players]
+2020-04-25 00:33:22 [INFO] /buildcraft help
+2020-04-25 00:33:22 [INFO] /ccdebug help
+2020-04-25 00:33:22 [INFO] /clear <player> [item] [data]
+2020-04-25 00:33:22 [INFO] /cofh help
+2020-04-25 00:33:28 [INFO] Stopping the server
+2020-04-25 00:33:29 [INFO] Stopping server
+2020-04-25 00:33:29 [INFO] Saving players
+2020-04-25 00:33:29 [INFO] Saving worlds
+2020-04-25 00:33:29 [INFO] Saving chunks for level 'world'/Overworld
+2020-04-25 00:33:29 [INFO] Closing listening thread
+2020-04-25 00:33:29 [INFO] Saving chunks for level 'world'/Nether
+2020-04-25 00:33:29 [INFO] Stopping server
+2020-04-25 00:33:29 [INFO] Saving players
+2020-04-25 00:33:29 [INFO] Saving worlds
